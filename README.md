@@ -46,6 +46,14 @@
   <a href="https://gitlab.com/mohamedN2024"><img src="https://img.shields.io/badge/-GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
   <a href="https://www.behance.net/moh24832c3ae"><img src="https://img.shields.io/badge/-Behance-%23191919?style=for-the-badge&logo=behance&logoColor=white"/></a>
   <a href="https://mohamednabilpro.deplois.net/"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://t.me/MOHAMEDNABILPRO"><img src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
+### 📱 Telegram QR
+<p align="center">
+  <img src="https://github.com/MohaMedN2018/MohaMedN2018/blob/main/telegram_qr.png" width="250" alt="Telegram QR"/>
 </p>
 
 ---
