@@ -58,6 +58,15 @@
 
 ---
 
+### 📄 Resume
+<p align="center">
+  <a href="https://github.com/MohaMedN2018/MohaMedN2018/raw/main/MohaMed%20Nabil%20Resume.pdf">
+    <img src="https://img.shields.io/badge/View%20My%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader"/>
+  </a>
+</p>
+
+---
+
 ### ✨ Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
